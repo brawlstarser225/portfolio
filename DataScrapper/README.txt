@@ -1,0 +1,3 @@
+The program downloads an HTML page from https://minfin.com.ua/ua/currency/, parses a specific HTML table with HtmlAgilityPack, extracts currency rows into in-memory lists, and writes the extracted values into an Excel file using ClosedXML.
+
+To use a program, double click "DataScrapper" shortcut, then enter a path for .xlsx file (C:\Users......\Results.xlsx). Click Enter. If everything is ok, you will receive confirm message "File saved successfully."
